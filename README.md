@@ -15,7 +15,7 @@ This project demonstrates how to integrate **Swagger (OpenAPI 3)** into a **Spri
 
 ## 🛠️ Tech Stack
 
-- Java 17+
+- Java 25 or higher
 - Spring Boot
 - Spring Web
 - Spring Boot DevTools
@@ -33,5 +33,5 @@ This project demonstrates how to integrate **Swagger (OpenAPI 3)** into a **Spri
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spring-boot-swagger-example.git
+git clone https://github.com/vaibhav2k25/spirng-boot-swagger-demo.git
 cd spring-boot-swagger-example
