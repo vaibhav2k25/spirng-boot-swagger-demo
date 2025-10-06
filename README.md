@@ -34,4 +34,4 @@ This project demonstrates how to integrate **Swagger (OpenAPI 3)** into a **Spri
 
 ```bash
 git clone https://github.com/vaibhav2k25/spirng-boot-swagger-demo.git
-cd spring-boot-swagger-example
+cd spirng-boot-swagger-demo
